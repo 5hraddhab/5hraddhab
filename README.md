@@ -146,10 +146,9 @@ A project exploring privacy-aware detection and redaction of sensitive informati
 
 I enjoy photography, visual storytelling, and creative design. I like digital experiences that feel intuitive, thoughtful, and memorable.
 
-## 🤝 Find Me Online
 
-- **LinkedIn:** Add your professional profile link
-- **Portfolio:** Add this when your website is ready
+
+
 - **GitHub:** [Explore my repositories](https://github.com/5hraddhab?tab=repositories)
 
 ---
