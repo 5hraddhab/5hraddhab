@@ -1,64 +1,62 @@
+<div align="center">
+
 Hi, I'm Shraddha 👋
-🎓 Third-year Computer Engineering student
-💻 Interested in software development, AI/ML, and building practical,
-user-focused projects.
+Computer Engineering Student | Software Development | AI/ML
+Building practical software and exploring how AI can solve real-world problems.
+</div>
 
-I enjoy exploring how technology can solve real-world problems. I'm
-currently growing my skills through academic projects, hackathons,
-research, and UI/UX-focused design work.
 🌿 About Me
-- 🎓 Studying Computer Engineering
-- 🤖 Interested in AI, machine learning, and software development
-- 🧩 Enjoy turning ideas into useful, interactive applications
-- 🎨 Interested in thoughtful digital experiences and design
-- 🚀 Always learning, experimenting, and improving my projects
-🛠️ Areas I'm Exploring
-- Programming & software development
-- Artificial intelligence and machine learning
-- Data analysis and predictive systems
-- Web applications and dashboards
-- UI/UX design and interactive interfaces
-- Research, testing, and project documentation
-🚀 Projects
+- 🎓 Third-year Computer Engineering student
+- 💻 Interested in software engineering, backend development, and AI/ML
+- 🧠 Enjoy solving problems with data structures and algorithms
+- 🚀 Improving my projects through better architecture, testing, and documentation
+- 🌱 Growing my skills through projects, research, and collaborative work
+🛠️ Tech Stack
+Languages
+C++ · Java · Python · SQL · JavaScript · HTML · CSS
+
+Core Concepts
+Data Structures & Algorithms · OOP · DBMS · Operating Systems · REST APIs
+
+Tools & Platforms
+Git · GitHub · MySQL · VS Code · FastAPI · Node.js
+🚀 Featured Projects
+⚖️ NyaayAI — AI Legal Aid Platform
+An AI-powered legal-tech project designed to help users work with legal documents and access legal information.
+- Modular backend services for document analysis and legal assistance
+- OCR pipeline for extracting text from legal notices across multiple languages
+- Automated draft replies for legal notices
+Technologies: Python, FastAPI, LLaMA 3, OCR, JWT, PyMuPDF
+🛰️ Satellite Task Scheduling System
+A scheduling system for prioritizing satellite tasks related to ocean-pollution monitoring.
+- Uses a Max Heap to prioritize tasks
+- Applies graph-based feasibility checks and a BST for conflict detection
+- Organizes the system into frontend, API, and C++ engine layers
+Technologies: C++, Node.js, JavaScript, HTML, CSS
+🚒 FireSYS — Fire & Emergency Response Management System
+A web-based system for managing fire and emergency-response information and resources.
+- RESTful backend services and JWT-based authentication
+- Normalized MySQL database schema
+- Incident monitoring and resource-allocation features
+Technologies: HTML, CSS, JavaScript, Node.js, MySQL
 📊 AI Customer Churn Predictor
-A machine-learning mini project focused on identifying customers who may
-be likely to leave a service. I'm exploring ways to improve its
-predictive capabilities and develop it further for research.
+A machine-learning mini project focused on predicting which customers may be at risk of leaving a service.
 
-Focus: machine learning, churn prediction, model evaluation, and
-feature improvement.
-🚒 FireSYS --- DBMS Project
-A database-focused project that I'm improving with a stronger
-software-development workflow, useful features, and testing.
-
-Focus: database design, application development, and reliability.
+Focus: model evaluation, feature improvement, and predictive analytics.
 🛡️ RedactIQ
-A project focused on helping identify and redact sensitive information
-from documents or text to support safer information sharing.
+A project exploring privacy-aware detection and redaction of sensitive information in text or documents.
 
-Focus: privacy-aware text processing, sensitive-data detection, and
-document security.
-⚖️ NyaayAI
-An AI-focused project exploring how technology can make legal
-information easier to understand and access.
-
-Focus: AI-assisted legal information, accessible explanations, and
-user-friendly legal technology.
-🎯 Current Goals
-- Build projects that demonstrate practical software-development
-  skills
-- Improve my understanding of AI/ML and model evaluation
-- Strengthen code quality, testing, and documentation
-- Explore research gaps and meaningful feature improvements
-- Create an interactive personal portfolio with a nature-inspired
-  forest theme
+Focus: sensitive-data detection and safer information sharing.
+🏆 Highlights
+- Finalist — Tesseract’26 State-Level Hackathon
+- Solved 350+ LeetCode problems, focusing on data structures and algorithms
 🌱 Beyond Code
-I'm interested in photography, visual storytelling, creative design, and
-making digital experiences feel intuitive and memorable.
-🤝 Let's Connect
-I'm open to learning opportunities, collaborative projects, hackathons,
-and software-development internships.
-- LinkedIn: Add your LinkedIn URL
-- Portfolio: Add your portfolio URL
-- Email: Add your preferred contact email
-This profile is a work in progress---just like my projects. 🌿
+I enjoy photography, visual storytelling, and creative design. I’m also interested in building digital experiences that are useful, intuitive, and visually thoughtful.
+🤝 Connect
+- LinkedIn: Add your professional LinkedIn profile link
+- Portfolio: Add your portfolio link when it is ready
+- GitHub: You’re already here!
+<div align="center">
+
+Always learning. Always building. 🌿
+</div>
