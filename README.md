@@ -6,9 +6,6 @@
 
 *I build practical software, explore AI, and turn ideas into working projects.*
 
-[![GitHub followers](https://img.shields.io/github/followers/5hraddhab?style=for-the-badge&logo=github&label=Followers)](https://github.com/5hraddhab)
-[![Profile views](https://komarev.com/ghpvc/?username=5hraddhab&style=for-the-badge&color=3b6b4b)](https://github.com/5hraddhab)
-
 [About](#-about-me) · [Skills](#-tech-stack) · [Projects](#-featured-projects) · [Stats](#-github-stats)
 
 </div>
