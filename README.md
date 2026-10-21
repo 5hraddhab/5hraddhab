@@ -132,7 +132,7 @@ A project exploring privacy-aware detection and redaction of sensitive informati
 
 ## 📈 GitHub Stats
 
-> Replace `5hraddhab` below with your exact GitHub username.
+
 
 <div align="center">
 
