@@ -131,7 +131,7 @@ A project exploring privacy-aware detection and redaction of sensitive informati
 ## 🏆 Highlights
 
 - 🥇 Finalist — Tesseract’26 State-Level Hackathon
-- 🧩 Solved 350+ LeetCode problems, focusing on data structures and algorithms
+
 
 ## 📈 GitHub Stats
 
